@@ -37,9 +37,9 @@ Use the trained model to predict for a new input value .
 
 ## PROGRAM
 
-**Name:** Rahul M R
+**Name:** KISHORE M
 
-**Register Number:** 2305003005
+**Register Number:** 2305002012
 ```
 from google.colab import auth
 import gspread
